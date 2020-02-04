@@ -11,5 +11,5 @@
 - newsite.sh
     bash скрипт по созданию вирт.хоста на localhost с возможностью во время сборки установить wordpress
 
-- rm.sh
+- rmsite.sh
     bash скрипт по удалению вирт.хоста на localhost
